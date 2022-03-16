@@ -41,7 +41,7 @@ Já este projeto contém o diferencial de ter a adição da biblioteca PySimpleG
 
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------
 # Python projects
 
 Creation of projects using python to increase the knowledge acquired in courses, videos, documents and articles.
